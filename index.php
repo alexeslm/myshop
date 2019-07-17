@@ -11,5 +11,6 @@ $text1 = '';
 <body>
 <h1><?=$h1;?></h1>
 <p><?=$text;?></p>
+<p>master</p>
 </body>
 </html>
