@@ -1,7 +1,8 @@
 <?php
-$title = 'master';
+$title = 'версия work1';
 $h1 = '';
 $text = '';
+$text1 = '';
 ?>
 <html>
 <head>
