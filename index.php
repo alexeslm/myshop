@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'master';
 $h1 = '';
 $text = '';
 ?>
@@ -10,5 +10,6 @@ $text = '';
 <body>
 <h1><?=$h1;?></h1>
 <p><?=$text;?></p>
+<p>master</p>
 </body>
 </html>
