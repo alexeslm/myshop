@@ -2,7 +2,7 @@
 $title = 'версия work1';
 $h1 = '';
 $text = '';
-$text1 = '';
+$text1 = '123';
 ?>
 <html>
 <head>
